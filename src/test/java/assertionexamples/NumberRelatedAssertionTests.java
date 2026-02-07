@@ -20,10 +20,7 @@ import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 
-/**
- * @author Faisal Khatri
- * @since 12/30/2022
- **/
+
 @Epic ("Rest Assured POC - Example Tests")
 @Feature ("Performing different API Tests using Rest-Assured")
 @Story ("Number related Assertions using Hamcrest in rest assured")
